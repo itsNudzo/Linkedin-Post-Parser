@@ -1,0 +1,11 @@
+{
+  "author_fullname_separator": "text-sm link-styled no-underline leading-open",
+  "author_title_link_separator": "!text-xs text-color-text-low-emphasis leading-[1.33333] m-0 truncate",
+  "post_content_separator": "attributed-text-segment-list__content text-color-text !text-sm whitespace-pre-wrap break-words",
+  "like_separator": "flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions",
+  "like_count_separator": "font-normal ml-0.5",
+  "comment_separator": "flex items-center font-sans text-sm babybear:text-xs main-feed-activity-card__social-actions",
+  "comment_count_separator": "flex items-center font-normal text-color-text-low-emphasis no-underline visited:text-color-text-low-emphasis before:middot my-1",
+  "publish_date_separator": "flex-none",
+  "member_id_separator": "semaphore__toggle"
+}

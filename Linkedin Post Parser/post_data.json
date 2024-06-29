@@ -1,0 +1,13 @@
+{
+    "author_first_name": "Austin",
+    "author_last_name": "Eovito",
+    "author_title": "Senior Data Scientist",
+    "post_content": "Let's talk about artificial intelligence-\n\nStarting with Generative AI, whether it is learning about it or deploying it, is like learning math starting with Calculus 3. A strong foundation will serve you and your enterprise better than utilization of the 'newest' technology. Without intimate knowledge, which leads to understanding, it will be impossible to discriminate between marketing materials and reality. The complexity of the technology you use is dependent on your use-case, maturity of your business, and the outcomes you seek to reach. \n\nThe arithmetic of these systems are well documented maths, algorithms, and infrastructure that have been conceptualized before the advent of the Transformer architecture created in 2017 (a lot of this math was formulated pre-computer). Most of the applications that Generative AI solves for could be solved pre-2017 with various statistical methods, algorithms, and 'traditional' deep-learning. \n\nWhat makes Generative AI so beautiful is its ability to generalize, its relative robustness, and the fact it is a 'multi-task' learner. E.g, if you wanted to classify documents, you could use Naive Bayes or an SVM; if you wanted to do object recognition you could you a convolutional neural network; if you wanted to generate text you could use a RNN or LSTM. The transformer architecture was proven out with text, broadened itself to images, and now we have giant models that are performant on both. That's why they are powerful. Instead of 2, 5, 10 models chained together within a system architecture, you can now use one Generative AI model.\n\nTLDR; you don't need a chainsaw to whittle a spoon.",
+    "like_count": "12",
+    "comment_count": "2",
+    "publish_date": "2024-06-23T01:16:49.193871",
+    "member_id": "7171294281360470016",
+    "page_lang": "en",
+    "retrieval_time": "2024-06-30T01:16:49.191872",
+    "member_category": "public_member_id"
+}
